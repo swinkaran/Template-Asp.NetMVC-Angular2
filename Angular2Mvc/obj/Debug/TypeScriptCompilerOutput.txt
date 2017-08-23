@@ -1,0 +1,2 @@
+C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\app\main.js
+C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\app\main.js.map
