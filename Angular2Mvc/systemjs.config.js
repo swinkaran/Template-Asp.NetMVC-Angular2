@@ -30,16 +30,14 @@
         // packages tells the System loader how to load when no filename and/or no extension
         packages: {
             app: {
-                defaultExtension: 'js',
-                meta: {
-                    './*.js': {
-                        loader: 'systemjs-angular-loader.js'
-                    }
-                }
+                main: 'main.js', defaultExtension: 'js'
             },
             rxjs: {
                 defaultExtension: 'js'
             }
+            ,
+            'ng2-bs3-modal':
+            { main: '/bundles/ng2-bs3-modal.js', defaultExtension: 'js' }
         }
     });
 })(this);

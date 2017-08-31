@@ -145,6 +145,5 @@ C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\bin
 C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\bin\Microsoft.AI.Web.xml
-C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\obj\Debug\Angular2Mvc.csprojResolveAssemblyReference.cache
 C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\obj\Debug\Angular2Mvc.dll
 C:\Users\srikarans\Documents\GitHub\Template-Asp.NetMVC-Angular2\Angular2Mvc\obj\Debug\Angular2Mvc.pdb
